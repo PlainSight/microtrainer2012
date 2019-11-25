@@ -1,0 +1,7 @@
+baseAlly 10
+baseEnemy 8
+enemyIncrement 1
+alliedColour Black
+enemyColour Green
+speed 5
+saveReplay false

@@ -1,0 +1,7 @@
+maxHp 35
+moveSpeed 5
+maxCoolDown 15
+range 45
+targetAquisitionRange 200
+radius 18
+damage 5

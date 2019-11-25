@@ -1,0 +1,7 @@
+package Interface;
+
+class InterpolatedAppearanceShot
+{
+	
+	
+}
